@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckMass</string>
+    <string name="InpR">Введите рост</string>
+    <string name="InpV">Введите вес</string>
+    <string name="ButCheck">Рассчитать массу</string>
+    <string name="Result">Результат</string>
+</resources>
